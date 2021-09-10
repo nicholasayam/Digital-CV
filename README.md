@@ -1,37 +1,71 @@
-## Welcome to GitHub Pages
+# Nicholas A.K.
+Diploma Student
 
-You can use the [editor on GitHub](https://github.com/astroforkorea/Digital-CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 👨🏼‍🎓Education
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Diploma in Aerospace Electronics (DASE), cGPA: 3.970
+#### Singapore Polytechnic - Singapore *(2018-2022)*
 
-### Markdown
+Awards:
+ - 3x Recipient of EEE Director’s Honour Roll (PFP, Year 1, Year 2)
+ - 2x Recipent of M.O.E. Academic Achievement (2019, 2020)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Cambridge ‘O’ Level Mathematics + Cambridge ‘N’ Level (NA), EMB3 Score : 6
+#### St. Andrew’s Secondary School - Singapore *(2012-2017)*
 
-```markdown
-Syntax highlighted code block
+Awards:
+ - Recipient of R.K.S. Adams Award (1st in 2017 GCE ‘N’ Level)
+ - Recipient of Priscilla Krempl Award (Leadership)
+ - Recipient of Edusave:
+	 - EAGLES Award
+	 - Character Award
+	 - Scholarship Award
+ - Recipient of NYAA Silver Award
 
-# Header 1
-## Header 2
-### Header 3
+Achievements: 
+ - Secured place in Polytechnic Foundation Programme (PFP) at Singapore Polytechnic in-lieu of ‘O’ Levels; PFP, a specially designed for the top ‘N’ Level (Academic) cohort.
 
-- Bulleted
-- List
+## Technical Experience
+Intern - collaboration KK Women's and Children's Hospital *(Mar 2021 - Aug 2021)* 
+ - Created and enhanced an upper limb rehabilitation system using novel technology.
+	 - ***Technologies used:*** Leap Motion Controller, Unity3D, Jupyter Notebook, C#, Python.
 
-1. Numbered
-2. List
+## 📝Competitions and Events
+ - **Participant**, Mapletree-SCCCI River Hongbao Hackathon 2020 - Expressed creativity to create a product with eco-sustainability in mind. 
+ - **Participant**, Singapore Airlines AppChallenge - Tertiary Student Track 2021
+ - **Presenter**, Singapore General Hospital SGH200 Learning Fiesta - Demostration for Final Year Project (FYP)
+ - Techblazer Student Awards 2021 (pending)
+ - Singapore Computer Society (SCS) Splash Awards 2021 (in finals...pending)
 
-**Bold** and _Italic_ and `Code` text
+## 🧰Technical Skills
+Programming Languages: C++, C#, Python
+Engineering Design: AutoCAD, Autodesk, Multisim 10.1
+Design: Adobe Illustrator & Adobe Premerie Pro
+Productivity: MS Office, Zoom,  Slack
 
-[Link](url) and ![Image](src)
-```
+## Co-Curricular Activities
+- **Vice-Chairman, Aerospace Electronics Guild**
+	- Oversaw and mentor a group of 14 students key knowledge of the cockpit with training on the A320 static simulator.
+- **EDGE Scholars Programme (Invitation Only)**
+	- Trained verbal and written communication skills with current affairs sessions.
+- **Overseas Leadership Training (LEAP) Camp**
+	- Sharpened my core skills (e.g. leadership) to be more effective as an individual and in teams.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 📌On The Side
+- Volunteered at Willing Hearts, a secular, non-affiliated charity, to prepare and distrubute daily meals to the less fortunate *(2019)*.
+- Designed, organised, and coordinated sale of course shirt (Aerospace Electronics) with exceeding sales of more than 400 shirts sold *(2020)*.
+-  Completed courses in: 
+	 - AWS Academy Cloud Foundation and Cloud Architecting *(2019)*
+	 - Project Management: The Basics for Success [Coursera X University of California, Irvine Extension] *(2020)*
+	 - Conversational Korean: Learn to Speak Korean 1 [Coursera X Yonsei University] *(2020)*
 
-### Jekyll Themes
+## 💬Languages
+English: Native
+Chinese: Spoken
+Korean: Conversational
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/astroforkorea/Digital-CV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Relevant Information
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ - Driving License : Class 3
+ - Date of Birth : 26th September 2000
+ - Professional Affiliation : Institution of Engineers, Singapore (IES)
