@@ -69,3 +69,7 @@ Korean: Conversational
  - Driving License : Class 3
  - Date of Birth : 26th September 2000
  - Professional Affiliation : Institution of Engineers, Singapore (IES)
+
+
+
+https://astroforkorea.github.io/Digital-CV/
