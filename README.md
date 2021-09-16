@@ -36,12 +36,13 @@ Intern - collaboration KK Women's and Children's Hospital *(Mar 2021 - Aug 2021)
  - **Presenter**, Singapore General Hospital SGH200 Learning Fiesta - Demostration for Final Year Project (FYP)
  - Techblazer Student Awards 2021 (pending)
  - Singapore Computer Society (SCS) Splash Awards 2021 (in finals...pending)
+ - Nominated for International ICT Innovative Service Awards 2021 (InnoServe Awards) (pending...)
 
 ## 🧰Technical Skills
 Programming Languages: C++, C#, Python
 Engineering Design: AutoCAD, Autodesk, Multisim 10.1
 Design: Adobe Illustrator & Adobe Premerie Pro
-Productivity: MS Office, Zoom,  Slack
+Productivity: MS Office, Zoom,  Slack, GitHub
 
 ## Co-Curricular Activities
 - **Vice-Chairman, Aerospace Electronics Guild**
@@ -69,7 +70,5 @@ Korean: Conversational
  - Driving License : Class 3
  - Date of Birth : 26th September 2000
  - Professional Affiliation : Institution of Engineers, Singapore (IES)
-
-
 
 https://astroforkorea.github.io/Digital-CV/
