@@ -1,4 +1,5 @@
 # Nicholas A.K.
+***
 Diploma Student
 
 ## 👨🏼‍🎓Education
@@ -9,6 +10,8 @@ Diploma Student
 Awards:
  - 3x Recipient of EEE Director’s Honour Roll (PFP, Year 1, Year 2)
  - 2x Recipent of M.O.E. Academic Achievement (2019, 2020)
+
+***
 
 ### Cambridge ‘O’ Level Mathematics + Cambridge ‘N’ Level (NA), EMB3 Score : 6
 #### St. Andrew’s Secondary School - Singapore *(2012-2017)*
@@ -25,6 +28,8 @@ Awards:
 Achievements: 
  - Secured place in Polytechnic Foundation Programme (PFP) at Singapore Polytechnic in-lieu of ‘O’ Levels; PFP, a specially designed for the top ‘N’ Level (Academic) cohort.
 
+***
+
 ## Technical Experience
 **Intern** - collaboration KK Women's and Children's Hospital *(Mar 2021 - Aug 2021)* 
  - Created and enhanced an upper limb rehabilitation system using novel technology.
@@ -40,11 +45,15 @@ Achievements:
  - **Champion**, of Singapore Computer Society (SCS) [Splash Awards 2021](https://www.scs.org.sg/awards/splash/2021/announcements) amongst 72 tertiary teams and 12 finalists.
  - **Pending**, Nominated for [International ICT Innovative Service Awards 2021](https://innoserve.tca.org.tw/en/about_contest.aspx) (InnoServe Awards)
 
+***
+
 ## 🧰Technical Skills
 Programming Languages: C++, C#, Python
 Engineering Design: AutoCAD, Autodesk, Multisim 10.1
 Design: Adobe Illustrator & Adobe Premerie Pro
 Productivity: MS Office, Zoom,  Slack, GitHub
+
+***
 
 ## Co-Curricular Activities
 - **Vice-Chairman, Aerospace Electronics Guild**
@@ -54,6 +63,8 @@ Productivity: MS Office, Zoom,  Slack, GitHub
 - **Overseas Leadership Training (LEAP) Camp**
 	- Sharpened my core skills (e.g. leadership) to be more effective as an individual and in teams.
 
+***
+
 ## 📌On The Side
 - Volunteered at Willing Hearts, a secular, non-affiliated charity, to prepare and distrubute daily meals to the less fortunate *(2019)*.
 - Designed, organised, and coordinated sale of course shirt (Aerospace Electronics) with exceeding sales of more than 400 shirts sold *(2020)*.
@@ -62,14 +73,21 @@ Productivity: MS Office, Zoom,  Slack, GitHub
 	 - Project Management: The Basics for Success [Coursera X University of California, Irvine Extension] *(2020)*
 	 - Conversational Korean: Learn to Speak Korean 1 [Coursera X Yonsei University] *(2020)*
 
+***
+
 ## 💬Languages
 English: Native
 Chinese: Spoken
 Korean: Conversational
+
+***
 
 ## Relevant Information
 
  - Driving License : Class 3
  - Date of Birth : 26th September 2000
  - Professional Affiliation : Institution of Engineers, Singapore (IES)
+
+
+https://astroforkorea.github.io/Digital-CV/
 
