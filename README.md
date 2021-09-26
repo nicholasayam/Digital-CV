@@ -1,6 +1,6 @@
 # Nicholas A.K.
-***
 Diploma Student
+***
 
 ## 👨🏼‍🎓Education
 
@@ -11,7 +11,6 @@ Awards:
  - 3x Recipient of EEE Director’s Honour Roll (PFP, Year 1, Year 2)
  - 2x Recipent of M.O.E. Academic Achievement (2019, 2020)
 
-***
 
 ### Cambridge ‘O’ Level Mathematics + Cambridge ‘N’ Level (NA), EMB3 Score : 6
 #### St. Andrew’s Secondary School - Singapore *(2012-2017)*
@@ -76,9 +75,9 @@ Productivity: MS Office, Zoom,  Slack, GitHub
 ***
 
 ## 💬Languages
-English: Native
-Chinese: Spoken
-Korean: Conversational
+- English: Native
+- Chinese: Spoken
+- Korean: Conversational
 
 ***
 
