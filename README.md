@@ -26,17 +26,19 @@ Achievements:
  - Secured place in Polytechnic Foundation Programme (PFP) at Singapore Polytechnic in-lieu of ‘O’ Levels; PFP, a specially designed for the top ‘N’ Level (Academic) cohort.
 
 ## Technical Experience
-Intern - collaboration KK Women's and Children's Hospital *(Mar 2021 - Aug 2021)* 
+**Intern** - collaboration KK Women's and Children's Hospital *(Mar 2021 - Aug 2021)* 
  - Created and enhanced an upper limb rehabilitation system using novel technology.
 	 - ***Technologies used:*** Leap Motion Controller, Unity3D, Jupyter Notebook, C#, Python.
 
+***
+
 ## 📝Competitions and Events
- - **Participant**, Mapletree-SCCCI River Hongbao Hackathon 2020 - Expressed creativity to create a product with eco-sustainability in mind. 
- - **Participant**, Singapore Airlines AppChallenge - Tertiary Student Track 2021
+ - **Participant**, Mapletree-SCCCI [River Hongbao Hackathon 2021](https://www.facebook.com/riverhongbaosg/videos/rhbhacks-2021-is-back/358824385315976/) - Expressed creativity to create a product with eco-sustainability in mind. 
+ - **Participant**, Singapore Airlines [AppChallenge](https://appchallenge.singaporeair.com/en/challenges/students-2021) - Tertiary Student Track 2021
  - **Presenter**, Singapore General Hospital SGH200 Learning Fiesta - Demostration for Final Year Project (FYP)
- - Techblazer Student Awards 2021 (pending)
- - Singapore Computer Society (SCS) Splash Awards 2021 (in finals...pending)
- - Nominated for International ICT Innovative Service Awards 2021 (InnoServe Awards) (pending...)
+ - **Pending**, [Techblazer Student Awards 2021](https://techblazerawards.sg/Awards)
+ - **Champion**, of Singapore Computer Society (SCS) [Splash Awards 2021](https://www.scs.org.sg/awards/splash/2021/announcements) amongst 72 tertiary teams and 12 finalists.
+ - **Pending**, Nominated for [International ICT Innovative Service Awards 2021](https://innoserve.tca.org.tw/en/about_contest.aspx) (InnoServe Awards)
 
 ## 🧰Technical Skills
 Programming Languages: C++, C#, Python
@@ -71,4 +73,3 @@ Korean: Conversational
  - Date of Birth : 26th September 2000
  - Professional Affiliation : Institution of Engineers, Singapore (IES)
 
-https://astroforkorea.github.io/Digital-CV/
