@@ -1,16 +1,15 @@
 # Nicholas A.K.
 Diploma Student
-
 ***
 
-## 👨🏼‍🎓Education
+## 👨🏼‍🎓 Education
 
 ### Diploma in Aerospace Electronics (DASE), cGPA: 3.975
 #### Singapore Polytechnic - Singapore *(2018-2022)*
 
 Awards:
  - 3x Recipient of EEE Director’s Honour Roll (PFP, Year 1, Year 2)
- - 2x Recipent of M.O.E. Academic Achievement (2019, 2020)
+ - 3x Recipent of M.O.E. Academic Achievement (2019, 2020, 2021)
 
 
 ### Cambridge ‘O’ Level Mathematics + Cambridge ‘N’ Level (NA), EMB3 Score : 6
@@ -32,26 +31,30 @@ Achievements:
 
 ## Technical Experience
 **Intern** - collaboration KK Women's and Children's Hospital *(Mar 2021 - Aug 2021)* 
- - Created and enhanced an upper limb rehabilitation system using novel technology.
-	 - ***Technologies used:*** Leap Motion Controller, Unity3D, Jupyter Notebook, C#, Python.
+ - Created Music Technology Activity Games (M-TAG), a contactless system bringing virtual-reality (non-immersive) music games to the homes of paediatric patients undergoing upper limb rehabilitation during and post Covid.
+	 - Technologies used: Leap Motion Controller, Unity3D, Jupyter Notebook, C#, Python, DECADA, Huawei Cloud.
+     - M-TAG is part of the Engaging Rehabilitation group of in-house projects in Singapore Polytechnic’s School of EEE’s Biomedical Engineering Hub.
 
 ***
 
-## 📝Competitions and Events
- - **Participant**, Mapletree-SCCCI [River Hongbao Hackathon 2021](https://www.facebook.com/riverhongbaosg/videos/rhbhacks-2021-is-back/358824385315976/) - Expressed creativity to create a product with eco-sustainability in mind. 
- - **Participant**, Singapore Airlines [AppChallenge](https://appchallenge.singaporeair.com/en/challenges/students-2021) - Tertiary Student Track 2021
- - **Presenter**, Singapore General Hospital SGH200 Learning Fiesta - Demostration for Final Year Project (FYP)
+## 🏆 Competitions and Events
+Internship Related (SP) - M-TAG
+- **Champion**, of Singapore Computer Society (SCS) [Splash Awards 2021](https://www.scs.org.sg/awards/splash/2021/announcements) amongst 72 tertiary teams and 12 finalists.
+ - **Presenter**, Singapore General Hospital SGH200 Learning Fiesta - Demostration for Final Year Project (FYP) to healthcare leaders.
  - **Pending**, [Techblazer Student Awards 2021](https://techblazerawards.sg/Awards)
- - **Champion**, of Singapore Computer Society (SCS) [Splash Awards 2021](https://www.scs.org.sg/awards/splash/2021/announcements) amongst 72 tertiary teams and 12 finalists.
  - **Pending**, Nominated for [International ICT Innovative Service Awards 2021](https://innoserve.tca.org.tw/en/about_contest.aspx) (InnoServe Awards)
 
+Others
+- **Participant**, Mapletree-SCCCI [River Hongbao Hackathon 2021](https://www.facebook.com/riverhongbaosg/videos/rhbhacks-2021-is-back/358824385315976/) - Expressed creativity to create a product with eco-sustainability in mind. 
+- **Participant**, Singapore Airlines [AppChallenge](https://appchallenge.singaporeair.com/en/challenges/students-2021) (Tertiary Student Track 2021) - Created application prototype to suit the needs of organisation.
+
 ***
 
-## 🧰Technical Skills
-Programming Languages: C++, C#, Python
-Engineering Design: AutoCAD, Autodesk, Multisim 10.1
-Design: Adobe Illustrator & Adobe Premerie Pro
-Productivity: MS Office, Zoom,  Slack, GitHub
+## 🧰 Technical Skills
+- Programming Languages: C++, C#, Python
+- Engineering Design: AutoCAD, Autodesk, Multisim 10.1
+- Design: Adobe Illustrator & Adobe Premerie Pro
+- Productivity: MS Office, Zoom,  Slack, GitHub
 
 ***
 
@@ -65,17 +68,17 @@ Productivity: MS Office, Zoom,  Slack, GitHub
 
 ***
 
-## 📌On The Side
+## 📌 On The Side
 - Volunteered at Willing Hearts, a secular, non-affiliated charity, to prepare and distrubute daily meals to the less fortunate *(2019)*.
 - Designed, organised, and coordinated sale of course shirt (Aerospace Electronics) with exceeding sales of more than 400 shirts sold *(2020)*.
--  Completed courses in: 
+-  Completed external courses in: 
 	 - AWS Academy Cloud Foundation and Cloud Architecting *(2019)*
 	 - Project Management: The Basics for Success [Coursera X University of California, Irvine Extension] *(2020)*
 	 - Conversational Korean: Learn to Speak Korean 1 [Coursera X Yonsei University] *(2020)*
 
 ***
 
-## 💬Languages
+## 💬 Languages
 - English: Native
 - Chinese: Spoken
 - Korean: Conversational
