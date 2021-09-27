@@ -1,8 +1,5 @@
 theme: jekyll-theme-minimal
 title: 💻Nicholas's Digital CV
 description: This page serves as a digital CV.
-email: xxx@gmail.com
 
-# About Section
-# about_title: About Me
-about_profile_image: images/happy2.jpg
+logo: /images/happy2.jpg
