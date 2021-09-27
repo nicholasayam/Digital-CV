@@ -2,7 +2,7 @@
 Diploma Student
 ***
 
-## 👨🏼‍🎓 Education
+## 👨🏻‍🎓 Education
 
 ### Diploma in Aerospace Electronics (DASE), cGPA: 3.975
 #### Singapore Polytechnic - Singapore *(2018-2022)*
@@ -29,7 +29,7 @@ Achievements:
 
 ***
 
-## Technical Experience
+## 👔 Technical Experience
 **Intern** - collaboration KK Women's and Children's Hospital *(Mar 2021 - Aug 2021)* 
  - Created Music Technology Activity Games (M-TAG), a contactless system bringing virtual-reality (non-immersive) music games to the homes of paediatric patients undergoing upper limb rehabilitation during and post Covid.
 	 - Technologies used: Leap Motion Controller, Unity3D, Jupyter Notebook, C#, Python, DECADA, Huawei Cloud.
@@ -50,7 +50,7 @@ Others
 
 ***
 
-## 🧰 Technical Skills
+## 💼 Technical Skills
 - Programming Languages: C++, C#, Python
 - Engineering Design: AutoCAD, Autodesk, Multisim 10.1
 - Design: Adobe Illustrator & Adobe Premerie Pro
