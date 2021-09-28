@@ -6,7 +6,7 @@ Diploma Student
 ## 🎓 Education
 
 ### Diploma in Aerospace Electronics (DASE), cGPA: 3.975
-#### Singapore Polytechnic - Singapore *(2018-2022)*
+**Singapore Polytechnic - Singapore *(2018-2022)***
 
 Awards:
  - 3x Recipient of EEE Director’s Honour Roll (PFP, Year 1, Year 2)
@@ -14,7 +14,7 @@ Awards:
 
 
 ### Cambridge ‘O’ Level Mathematics + Cambridge ‘N’ Level (NA), EMB3 Score : 6
-#### St. Andrew’s Secondary School - Singapore *(2012-2017)*
+**St. Andrew’s Secondary School - Singapore *(2012-2017)***
 
 Awards:
  - Recipient of R.K.S. Adams Award (1st in 2017 GCE ‘N’ Level)
