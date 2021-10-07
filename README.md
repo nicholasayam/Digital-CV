@@ -42,12 +42,13 @@ Achievements:
 Internship Related (SP) - M-TAG
 - **Champion**, of Singapore Computer Society (SCS) [Splash Awards 2021](https://www.scs.org.sg/awards/splash/2021/announcements) amongst 72 tertiary teams and 12 finalists.
  - **Presenter**, Singapore General Hospital SGH200 Learning Fiesta - Demostration for Final Year Project (FYP) to healthcare leaders.
- - **Pending**, [Techblazer Student Awards 2021](https://techblazerawards.sg/Awards)
+ - **Pending**, Currenly in Semi-Finals of [Techblazer Student Awards 2021](https://techblazerawards.sg/Awards)
  - **Pending**, Nominated for [International ICT Innovative Service Awards 2021](https://innoserve.tca.org.tw/en/about_contest.aspx) (InnoServe Awards)
 
 Others
 - **Participant**, Mapletree-SCCCI [River Hongbao Hackathon 2021](https://www.facebook.com/riverhongbaosg/videos/rhbhacks-2021-is-back/358824385315976/) - Expressed creativity to create a product with eco-sustainability in mind. 
 - **Participant**, Singapore Airlines [AppChallenge](https://appchallenge.singaporeair.com/en/challenges/students-2021) (Tertiary Student Track 2021) - Created application prototype to suit the needs of organisation.
+- **Participant**, 313@somerset [Visual Art Contest](https://www.313somerset.com.sg/-/media/retail/asia/313-somerset/files/20210803_somersetlive_contest_form_6-august.pdf?la=en&hash=0BD11D3CFE4871393D6221C9855ADE1297FD1E6A) -  Designed a vibrant and dynamic wall poster to fit organiser's needs.
 
 ***
 
@@ -76,6 +77,7 @@ Others
 	 - AWS Academy Cloud Foundation and Cloud Architecting *(2019)*
 	 - Project Management: The Basics for Success [Coursera X University of California, Irvine Extension] *(2020)*
 	 - Conversational Korean: Learn to Speak Korean 1 [Coursera X Yonsei University] *(2020)*
+     - **Pending** : Understanding the Brain: The Neurobiology of Everday Life [Coursera X The University of Chicago] *(2021)*
 
 ***
 
