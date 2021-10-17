@@ -40,15 +40,49 @@ Achievements:
 
 ## 🏆 Competitions and Events
 Internship Related (SP) - M-TAG
-- **Champion**, of Singapore Computer Society (SCS) [Splash Awards 2021](https://www.scs.org.sg/awards/splash/2021/announcements) amongst 72 tertiary teams and 12 finalists.
- - **Presenter**, Singapore General Hospital SGH200 Learning Fiesta - Demostration for Final Year Project (FYP) to healthcare leaders.
+- **Champion**, of Singapore Computer Society (SCS) [Splash Awards 2021](https://www.scs.org.sg/awards/splash/2021/announcements)
+  - Competed nationally against 72 tertiary teams to create an innovative tech solution (enhancing upon my final year project) using digital intelligence and cloud that will transform Singapore in a post-pandemic world.
+ - **Presenter**, Singapore General Hospital SGH200 Learning Fiesta
+   - Demostration for Final Year Project (FYP) to healthcare leaders.
  - **Pending**, Currenly in Semi-Finals of [Techblazer Student Awards 2021](https://techblazerawards.sg/Awards)
  - **Pending**, Nominated for [International ICT Innovative Service Awards 2021](https://innoserve.tca.org.tw/en/about_contest.aspx) (InnoServe Awards)
 
 Others
-- **Participant**, Mapletree-SCCCI [River Hongbao Hackathon 2021](https://www.facebook.com/riverhongbaosg/videos/rhbhacks-2021-is-back/358824385315976/) - Expressed creativity to create a product with eco-sustainability in mind. 
-- **Participant**, Singapore Airlines [AppChallenge](https://appchallenge.singaporeair.com/en/challenges/students-2021) (Tertiary Student Track 2021) - Created application prototype to suit the needs of organisation.
-- **Participant**, 313@somerset [Visual Art Contest](https://www.313somerset.com.sg/-/media/retail/asia/313-somerset/files/20210803_somersetlive_contest_form_6-august.pdf?la=en&hash=0BD11D3CFE4871393D6221C9855ADE1297FD1E6A) -  Designed a vibrant and dynamic wall poster to fit organiser's needs.
+- **Participant**, Mapletree-SCCCI [River Hongbao Hackathon 2021](https://www.facebook.com/riverhongbaosg/videos/rhbhacks-2021-is-back/358824385315976/)
+  - Expressed creativity by creating and proposing an eco-friendly Chinese New Year product for the festive period.
+- **Participant**, Singapore Airlines [AppChallenge](https://appchallenge.singaporeair.com/en/challenges/students-2021) [Tertiary Student Track 2021]
+  - Worked as a team of 3 students to enhance the current on-board entertainment system with a mobile application to create an engaging in-flight gaming experience.
+- **Participant**, 313@somerset [Visual Art Contest](https://www.313somerset.com.sg/-/media/retail/asia/313-somerset/files/20210803_somersetlive_contest_form_6-august.pdf?la=en&hash=0BD11D3CFE4871393D6221C9855ADE1297FD1E6A)
+  - Designed a vibrant and dynamic wall poster to fit organiser's needs.
+
+***
+
+## 📌 On The Side (Co-Curricular Activities)
+- **Vice-Chairman, Aerospace Electronics Guild (2020 - Present)**
+	-	Oversaw and mentored a group of 14 students with key knowledge of the cockpit and training on a full-scale A320 static simulator.
+	-	Designed, organised, and coordinated the sale of the DASE course shirt (Aerospace Electronics) with exceeding sales of more than 400 shirts sold.
+	- [Note: Aerospace Electronics Guild is a special interest group headed by Diploma of Aerospace Electronics (DASE) course chair, Mr Danny Lee.]
+
+- **Member, EDGE Scholars Programme (Invitation Only) (2020 - Present)**
+	- Trained verbal and written communication skills with current affairs and preparatory sessions.
+- **Participant, Overseas Leadership Training (LEAP) Camp (2018)**
+  - Participated in a camp to sharpen my core skills (e.g., leadership); allowing me to work more effectively as an individual and in teams.
+
+- **Volunteer, Willing Hearts Charity Kitchen (Community Service) (2019)**
+  - Volunteered in the preparation and distribution of daily meals to beneficiaries such as the elderly, disabled and low-income families in Singapore.
+
+- **Volunteer, Singapore Polytechnic Flag Day (Community Service) (2019)**
+  - Volunteered to raise funds for the President’s Challenge to support organisations that empower vulnerable individuals in the community.
+
+- **Medical Shadowing - General Practitioner (Dr Jipson Quah), Mayfair Medical Clinic (2021)**
+  - Gained valuable exposure to a doctor’s daily clinical challenges and satisfaction, while learning a doctor’s thought process and evaluation for each patient's concerns.
+
+
+-  **Completed external courses in:** 
+	 - AWS Academy Cloud Foundation and Cloud Architecting *(2019)*
+	 - Project Management: The Basics for Success [Coursera X University of California, Irvine Extension] *(2020)*
+	 - Conversational Korean: Learn to Speak Korean 1 [Coursera X Yonsei University] *(2020)*
+     - **Pending** : Understanding the Brain: The Neurobiology of Everday Life [Coursera X The University of Chicago] *(2021)*
 
 ***
 
@@ -57,28 +91,6 @@ Others
 - Engineering Design: AutoCAD, Autodesk Fusion 360, Unity3D, Multisim 10.1
 - Design: Adobe Illustrator & Adobe Premerie Pro
 - Productivity: MS Office, Zoom,  Slack, GitHub
-
-***
-
-## Co-Curricular Activities
-- **Vice-Chairman, Aerospace Electronics Guild**
-	- Oversaw and mentor a group of 14 students key knowledge of the cockpit with training on the A320 static simulator.
-- **EDGE Scholars Programme (Invitation Only)**
-	- Trained verbal and written communication skills with current affairs sessions.
-- **Overseas Leadership Training (LEAP) Camp**
-	- Sharpened my core skills (e.g. leadership) to be more effective as an individual and in teams.
-
-***
-
-## 📌 On The Side
-- Shadowed a General Practitioner, Dr Jipson Quah at [Mayfair Medical Clinic](https://www.mayfairmedical.net/)  (12-May-21) - Had the opportunity to experience the challenges and satisfaction of being a doctor; Understanding and evaluating each patient's concerns.
-- Volunteered at Willing Hearts, a secular, non-affiliated charity, to prepare and distrubute daily meals to the less fortunate *(2019)*.
-- Designed, organised, and coordinated sale of course shirt (Aerospace Electronics) with exceeding sales of more than 400 shirts sold *(2020)*.
--  **Completed external courses in:** 
-	 - AWS Academy Cloud Foundation and Cloud Architecting *(2019)*
-	 - Project Management: The Basics for Success [Coursera X University of California, Irvine Extension] *(2020)*
-	 - Conversational Korean: Learn to Speak Korean 1 [Coursera X Yonsei University] *(2020)*
-     - **Pending** : Understanding the Brain: The Neurobiology of Everday Life [Coursera X The University of Chicago] *(2021)*
 
 ***
 
