@@ -71,6 +71,7 @@ Others
 ***
 
 ## 📌 On The Side
+- Shadowed a General Practitioner, Dr Jipson Quah at [Mayfair Medical Clinic](https://www.mayfairmedical.net/)  (12-May-21) - Had the opportunity to experience the challenges and satisfaction of being a doctor; Understanding and evaluating each patient's concerns.
 - Volunteered at Willing Hearts, a secular, non-affiliated charity, to prepare and distrubute daily meals to the less fortunate *(2019)*.
 - Designed, organised, and coordinated sale of course shirt (Aerospace Electronics) with exceeding sales of more than 400 shirts sold *(2020)*.
 -  **Completed external courses in:** 
