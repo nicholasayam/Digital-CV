@@ -31,7 +31,7 @@ Achievements:
 ***
 
 ## 👔 Technical Experience
-**Intern** - collaboration KK Women's and Children's Hospital *(Mar 2021 - Aug 2021)* 
+**Intern** - In collaboration with KK Women's and Children's Hospital *(Mar 2021 - Aug 2021)* 
  - Created Music Technology Activity Games (M-TAG), a contactless system bringing virtual-reality (non-immersive) music games to the homes of paediatric patients undergoing upper limb rehabilitation during and post Covid.
 	 - Technologies used: Leap Motion Controller, Unity3D, Jupyter Notebook, C#, Python, DECADA, Huawei Cloud.
      - M-TAG is part of the Engaging Rehabilitation group of in-house projects in Singapore Polytechnic’s School of EEE’s Biomedical Engineering Hub.
@@ -48,33 +48,33 @@ Internship Related (SP) - M-TAG
  - **Pending**, Nominated for [International ICT Innovative Service Awards 2021](https://innoserve.tca.org.tw/en/about_contest.aspx) (InnoServe Awards)
 
 Others
-- **Participant**, Mapletree-SCCCI [River Hongbao Hackathon 2021](https://www.facebook.com/riverhongbaosg/videos/rhbhacks-2021-is-back/358824385315976/)
+- **Participant**, Mapletree-SCCCI [River Hongbao Hackathon 2021](https://www.facebook.com/riverhongbaosg/videos/rhbhacks-2021-is-back/358824385315976/) *(2020)*
   - Expressed creativity by creating and proposing an eco-friendly Chinese New Year product for the festive period.
-- **Participant**, Singapore Airlines [AppChallenge](https://appchallenge.singaporeair.com/en/challenges/students-2021) [Tertiary Student Track 2021]
-  - Worked as a team of 3 students to enhance the current on-board entertainment system with a mobile application to create an engaging in-flight gaming experience.
-- **Participant**, 313@somerset [Visual Art Contest](https://www.313somerset.com.sg/-/media/retail/asia/313-somerset/files/20210803_somersetlive_contest_form_6-august.pdf?la=en&hash=0BD11D3CFE4871393D6221C9855ADE1297FD1E6A)
+- **Participant**, Singapore Airlines [AppChallenge](https://appchallenge.singaporeair.com/en/challenges/students-2021) [Tertiary Student Track] *(2021)*
+  - Worked as a team of 3 students to enhance the current on-board entertainment system with a mobile application to create an engaging in-flight gaming experience. *(2021)*
+- **Participant**, 313@somerset [Visual Art Contest](https://www.313somerset.com.sg/-/media/retail/asia/313-somerset/files/20210803_somersetlive_contest_form_6-august.pdf?la=en&hash=0BD11D3CFE4871393D6221C9855ADE1297FD1E6A) *(2021)*
   - Designed a vibrant and dynamic wall poster to fit organiser's needs.
 
 ***
 
 ## 📌 On The Side (Co-Curricular Activities)
-- **Vice-Chairman, Aerospace Electronics Guild (2020 - Present)**
+- **Vice-Chairman, Aerospace Electronics Guild *(2020 - Present)***
 	-	Oversaw and mentored a group of 14 students with key knowledge of the cockpit and training on a full-scale A320 static simulator.
 	-	Designed, organised, and coordinated the sale of the DASE course shirt (Aerospace Electronics) with exceeding sales of more than 400 shirts sold.
 	- [Note: Aerospace Electronics Guild is a special interest group headed by Diploma of Aerospace Electronics (DASE) course chair, Mr Danny Lee.]
 
-- **Member, EDGE Scholars Programme (Invitation Only) (2020 - Present)**
+- **Member, EDGE Scholars Programme (Invitation Only) *(2020 - Present)***
 	- Trained verbal and written communication skills with current affairs and preparatory sessions.
-- **Participant, Overseas Leadership Training (LEAP) Camp (2018)**
+- **Participant, Overseas Leadership Training (LEAP) Camp *(2018)***
   - Participated in a camp to sharpen my core skills (e.g., leadership); allowing me to work more effectively as an individual and in teams.
 
-- **Volunteer, Willing Hearts Charity Kitchen (Community Service) (2019)**
+- **Volunteer, Willing Hearts Charity Kitchen (Community Service) *(2019)***
   - Volunteered in the preparation and distribution of daily meals to beneficiaries such as the elderly, disabled and low-income families in Singapore.
 
-- **Volunteer, Singapore Polytechnic Flag Day (Community Service) (2019)**
+- **Volunteer, Singapore Polytechnic Flag Day (Community Service) *(2019)***
   - Volunteered to raise funds for the President’s Challenge to support organisations that empower vulnerable individuals in the community.
 
-- **Medical Shadowing - General Practitioner (Dr Jipson Quah), Mayfair Medical Clinic (2021)**
+- **Medical Shadowing - General Practitioner (Dr Jipson Quah), Mayfair Medical Clinic *(2021)***
   - Gained valuable exposure to a doctor’s daily clinical challenges and satisfaction, while learning a doctor’s thought process and evaluation for each patient's concerns.
 
 
