@@ -1,4 +1,4 @@
-# Nicholas A.K.
+# Nicholas
 Diploma Student
 
 ***
