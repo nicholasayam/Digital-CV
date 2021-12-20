@@ -44,8 +44,8 @@ Internship Related (SP) - M-TAG
   - Competed nationally against 72 tertiary teams to create an innovative tech solution (enhancing upon my final year project) using digital intelligence and cloud that will transform Singapore in a post-pandemic world.
  - **Presenter**, Singapore General Hospital SGH200 Learning Fiesta
    - Demostration for Final Year Project (FYP) to healthcare leaders.
- - **Pending**, Currenly in Semi-Finals of [Techblazer Student Awards 2021](https://techblazerawards.sg/Awards)
- - **Pending**, Nominated for [International ICT Innovative Service Awards 2021](https://innoserve.tca.org.tw/en/about_contest.aspx) (InnoServe Awards)
+ - **Participant**, Currenly in Semi-Finals of [Techblazer Student Awards 2021](https://techblazerawards.sg/Awards)
+ - **Participant**, Nominated for [International ICT Innovative Service Awards 2021](https://innoserve.tca.org.tw/en/about_contest.aspx) (InnoServe Awards)
 
 Others
 - **Participant**, Mapletree-SCCCI [River Hongbao Hackathon 2021](https://www.facebook.com/riverhongbaosg/videos/rhbhacks-2021-is-back/358824385315976/) *(2020)*
