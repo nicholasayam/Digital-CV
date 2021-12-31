@@ -1,4 +1,5 @@
-# Nicholas
+# Nicholas Aloysius Yam
+(formerly Nicholas Ng Wei Jie)
 Diploma Student
 
 ***
