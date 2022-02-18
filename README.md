@@ -92,7 +92,7 @@ Others
 ## 💼 Technical Skills
 - Programming Languages: C++, C#, Python
 - Engineering Design: AutoCAD, Autodesk Fusion 360, Unity3D, Multisim 10.1
-- Design: Adobe Illustrator & Adobe Premerie Pro
+- Design: Android Studio, Adobe Illustrator & Adobe Premerie Pro
 - Productivity: MS Office, Zoom,  Slack, GitHub
 
 ***
