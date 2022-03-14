@@ -74,8 +74,11 @@ Others
 - **Volunteer, Willing Hearts Charity Kitchen (Community Service) *(2019)***
   - Volunteered in the preparation and distribution of daily meals to beneficiaries such as the elderly, disabled and low-income families in Singapore.
 
-- **Volunteer, Singapore Polytechnic Flag Day (Community Service) *(2019)***
-  - Volunteered to raise funds for the President’s Challenge to support organisations that empower vulnerable individuals in the community.
+- **Volunteer, Singapore Polytechnic Flag Day (Community Service) *(2018 & 2019)***
+  - As part of the President's Challenge, freshmen from Singapore Polytechnic join the Singapore Polytechnic Flag Day are brought out to various parts of Singapore to raise funds for the needy in Singapore. On a personal note: This event was memorable as I was able to see first-hand the kindness of locals when it came time to contribute back to the communities in Singapore. I was particularly fond of an old lady who was altruistic in sharing a generous amount to the contribution tin I was carrying with me!
+
+- **Volunteer, NTUC Health SilverACE Senior Activity Centre (Telok Blangah)
+  - At the senior activity center, I had the opportunity to engage with vulnerable elderlies in lower-income neighbourhoods who are often lonely and socially isolated. To brighten their day, my fellow classmates and I initiated fun and simple games with them, had tea to hear their interesting stories, and helped to keep the place neat and tidy. Albeit our short visit, it was nice to see their soft smiles as we bond and interact with them.
 
 - **Medical Shadowing - General Practitioner (Dr Jipson Quah), Mayfair Medical Clinic *(2021)***
   - Gained valuable exposure to a doctor’s daily clinical challenges and satisfaction, while learning a doctor’s thought process and evaluation for each patient's concerns.
