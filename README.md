@@ -62,7 +62,7 @@ Others
 ***
 
 ## 📌 On The Side (Co-Curricular Activities)
-- **Vice-Chairman, Aerospace Electronics Guild *(2020 - Present)***
+- **Co-founder and Executive, Aerospace Electronics Guild *(2020 - Present)***
 	-	Oversaw and mentored a group of 14 students with key knowledge of the cockpit and training on a full-scale A320 static simulator.
 	-	Designed, organised, and coordinated the sale of the DASE course shirt (Aerospace Electronics) with exceeding sales of more than 400 shirts sold.
 	- [Note: Aerospace Electronics Guild is a special interest group headed by Diploma of Aerospace Electronics (DASE) course chair, Mr Danny Lee.]
