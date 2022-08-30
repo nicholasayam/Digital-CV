@@ -13,7 +13,7 @@ Diploma Student
 
 Awards:
  - 3x Recipient of EEE Director’s Honour Roll (PFP, Year 1, Year 2)
- - 3x Recipent of M.O.E. Academic Achievement (2019, 2020, 2021)
+ - 3x Recipent of M.O.E. Academic Achievement (2019, 2020, 2021, 2022)
  - Outstanding Class Leader Award (2021)
 
 
