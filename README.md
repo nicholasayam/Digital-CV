@@ -2,7 +2,7 @@
 (formerly Nicholas Ng Wei Jie)
 
 
-Diploma Student
+Serving the force now...
 
 ***
 
@@ -13,7 +13,7 @@ Diploma Student
 
 Awards:
  - 3x Recipient of EEE Director’s Honour Roll (PFP, Year 1, Year 2)
- - 3x Recipent of M.O.E. Academic Achievement (2019, 2020, 2021, 2022)
+ - 3x Recipent of M.O.E. Academic Achievement (2019 - 2022)
  - Outstanding Class Leader Award (2021)
 
 
@@ -27,6 +27,8 @@ Awards:
 	 - EAGLES Award
 	 - Character Award
 	 - Scholarship Award
+	 - Skills Award
+
  - Recipient of NYAA Silver Award
 
 Achievements: 
