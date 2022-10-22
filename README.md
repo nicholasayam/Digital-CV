@@ -8,6 +8,9 @@ Serving the force now...
 
 ## 🎓 Education
 
+### (Upcoming in 2024) Law
+**National University of Singapore
+
 ### Diploma in Aerospace Electronics (DASE), cGPA: 3.975
 **Singapore Polytechnic - Singapore *(2018-2022)***
 
