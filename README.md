@@ -4,6 +4,8 @@
 
 *Live Updates*: Serving the force now. Upcoming in 2024, Law at National University of Singapore (NUS). 🚀
 
+<span style="color:blue">some *blue* text</span>
+
 ***
 
 ## 🎓 Education
