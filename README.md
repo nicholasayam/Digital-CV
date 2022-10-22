@@ -2,9 +2,7 @@
 (formerly Nicholas Ng Wei Jie)
 
 
-*Live Updates*: Serving the force now. Upcoming in 2024, Law at National University of Singapore (NUS). 🚀
-
-<span style="color:blue">some *blue* text</span>
+<span style="color:blue"> **Live Updates** text</span> : Serving the force now. Upcoming in 2024, Law at National University of Singapore (NUS). 🚀
 
 ***
 
