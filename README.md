@@ -85,9 +85,6 @@ Others
 - **Volunteer, NTUC Health SilverACE Senior Activity Centre (Telok Blangah) *(2019)***
   - At the senior activity center, I had the opportunity to engage with vulnerable elderlies in lower-income neighbourhoods who are often lonely and socially isolated. To brighten their day, my fellow classmates and I initiated fun and simple games with them, had tea to hear their interesting stories, and helped to keep the place neat and tidy. Albeit our short visit, it was nice to see their soft smiles as we bond and interact with them.
 
-- **Medical Shadowing - General Practitioner (Dr Jipson Quah), Mayfair Medical Clinic *(2021)***
-  - Gained valuable exposure to a doctor’s daily clinical challenges and satisfaction, while learning a doctor’s thought process and evaluation for each patient's concerns.
-
 
 -  **Completed external courses in:** 
 	 - AWS Academy Cloud Foundation and Cloud Architecting [AWS] *(2019)*
