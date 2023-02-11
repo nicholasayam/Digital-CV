@@ -1,5 +1,5 @@
 # Nicholas Aloysius Yam
-(formerly Nicholas Ng Wei Jie)
+(formerly Nicholas Ng Wei Jie, renounced)
 
 
 📮**Live Updates**: Serving the force now. Upcoming in 2024, Law at National University of Singapore (NUS). 🚀
