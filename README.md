@@ -114,7 +114,7 @@ Others
 ***
 
 ## 🎖️ Military Experience
-- **Singapore Armed Forces**, Enlisted May 2022 till XX (TBU). Awarded the Silver Bayonet (Top 10% Honour Graduate in cohort) in Specialist Cadet Course, February 2023. 
+- **Singapore Armed Forces (SAF)**, Enlisted May 2022 till XX (TBU). Awarded the Silver Bayonet (Top 10% Honour Graduate in cohort) in Specialist Cadet Course, February 2023. 
 
 ***
 
