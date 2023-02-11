@@ -90,10 +90,11 @@ Others
 
 
 -  **Completed external courses in:** 
-	 - AWS Academy Cloud Foundation and Cloud Architecting *(2019)*
+	 - AWS Academy Cloud Foundation and Cloud Architecting [AWS] *(2019)*
 	 - Project Management: The Basics for Success [Coursera X University of California, Irvine Extension] *(2020)*
 	 - Conversational Korean: Learn to Speak Korean 1 [Coursera X Yonsei University] *(2020)*
-     - **Pending** : Understanding the Brain: The Neurobiology of Everday Life [Coursera X The University of Chicago] *(2021)*
+	 - CCNAv7: Introduction to Networks [Cisco Networking Academy] *(2023)*
+ 
 
 ***
 
@@ -109,6 +110,11 @@ Others
 - English: Native
 - Chinese: Spoken
 - Korean: Conversational
+
+***
+
+## 🎖️ Military Experience
+- **Singapore Armed Forces**, Enlisted May 2022 till XX (TBU). Awarded the Silver Bayonet (Top 10% Honour Graduate in cohort) in February 2023. 
 
 ***
 
