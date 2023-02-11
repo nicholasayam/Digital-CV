@@ -41,7 +41,7 @@ Achievements:
 ## 👔 Technical Experience
 **Intern** - In collaboration with KK Women's and Children's Hospital *(Mar 2021 - Aug 2021)* 
  - Created Music Technology Activity Games (M-TAG), a contactless system bringing virtual-reality (non-immersive) music games to the homes of paediatric patients undergoing upper limb rehabilitation during and post Covid.
-	 - Technologies used: Leap Motion Controller, Unity3D, Jupyter Notebook, C#, Python, DECADA, Huawei Cloud.
+	 - Technologies used: Leap Motion Controller, Unity3D, Jupyter Notebook, C#, Python, DECADA (GovTech), Huawei Cloud.
      - M-TAG is part of the Engaging Rehabilitation group of in-house projects in Singapore Polytechnic’s School of EEE’s Biomedical Engineering Hub.
 
 ***
