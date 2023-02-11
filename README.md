@@ -8,7 +8,7 @@
 
 ## 🎓 Education
 
-### Diploma in Aerospace Electronics (DASE), cGPA: 3.975
+### Diploma in Aerospace Electronics (DASE), cGPA: 3.959
 > **Singapore Polytechnic - Singapore *(2018-2022)***
 
 Awards:
