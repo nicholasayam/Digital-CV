@@ -25,4 +25,5 @@ callouts:
     title: Warning
     color: red
 
-logo: <img src="images/happy2.jpg" width="200"> #/images/happy2.jpg
+logo: /images/happy2.jpg # insert image into readme.md, use this code <img src="images/happy2.jpg" width="200"> 
+ 
