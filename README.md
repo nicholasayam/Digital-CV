@@ -1,3 +1,5 @@
+<img src="/images/happy2.jpg"> 
+
 # Nicholas Aloysius Yam
 (formerly Nicholas Ng Wei Jie, renounced)
 
