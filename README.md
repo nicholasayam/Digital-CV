@@ -123,11 +123,10 @@ Achievements:
 ## 🎖️ Military Experience
 - **Singapore Armed Forces (SAF)**, Enlisted May 2022 till XX (TBU). Awarded the Silver Bayonet (Top 10% Honour Graduate in cohort) in Specialist Cadet Course, February 2023.
 
-- **Watch this space!**
 
 ***
 
-## Relevant Information
+## 📂 Relevant Information
 
  - Driving License : Class 3
  - Date of Birth : 26th September 2000
