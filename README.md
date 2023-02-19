@@ -3,7 +3,9 @@
 (formerly Nicholas Ng Wei Jie, renounced)
 
 
-{: .updates }
+{: .new-title }
+> Live Updates
+> 
 > Serving the force now. Upcoming in 2024, Law at National University of Singapore (NUS). 🚀.
 
 ***
