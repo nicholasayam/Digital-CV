@@ -6,4 +6,21 @@ description: A day in the DA-40 Aircraft.
 
 #color_scheme: dark (dark mode)
 
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
 logo: /images/happy2.jpg
