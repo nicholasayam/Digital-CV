@@ -7,7 +7,7 @@
 > Serving the force now. Upcoming in 2024, Law at National University of Singapore (NUS). 🚀.
 
 {: .note }
-A paragraph
+> A paragraph
 
 ***
 
