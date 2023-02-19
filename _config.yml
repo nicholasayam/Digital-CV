@@ -1,5 +1,5 @@
 #theme: jekyll-theme-minimal
-remote_theme: just-the-docs/just-the-docs
+remote_theme: "just-the-docs/just-the-docs"
 
 title: 💻Nicholas's Digital CV
 description: A day in the DA-40 Aircraft.
@@ -16,7 +16,7 @@ callouts:
     title: Important
     color: blue
   new:
-    title: New
+    title: Live Updates
     color: green
   note:
     title: Note
@@ -24,11 +24,6 @@ callouts:
   warning:
     title: Warning
     color: red
-
-kramdown:
-  syntax_highlighter_opts:
-    block:
-      line_numbers: false
       
     
 # Back to top link
