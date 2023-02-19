@@ -53,7 +53,7 @@ Achievements:
 ***
 
 ## 🏆 Competitions and Events
-Internship Related (SP) - M-TAG
+**Internship Related (SP) - M-TAG**
 {: .label .label-purple }
 
 - **Champion**, of Singapore Computer Society (SCS) [Splash Awards 2021](https://www.scs.org.sg/awards/splash/2021/announcements)
@@ -63,7 +63,7 @@ Internship Related (SP) - M-TAG
  - **Participant**, Till Semi-Finals of [Techblazer Student Awards 2021](https://techblazerawards.sg/Awards)
  - **Participant**, Nominated for [International ICT Innovative Service Awards 2021](https://innoserve.tca.org.tw/en/about_contest.aspx) (InnoServe Awards)
 
-Others
+**Others**
 {: .label .label-purple }
 
 - **Participant**, Mapletree-SCCCI [River Hongbao Hackathon 2021](https://www.facebook.com/riverhongbaosg/videos/rhbhacks-2021-is-back/358824385315976/) *(2020)*
