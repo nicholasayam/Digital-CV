@@ -4,6 +4,8 @@ remote_theme: "just-the-docs/just-the-docs"
 title: 💻Nicholas's Digital CV
 description: A day in the DA-40 Aircraft.
 
+favicon_ico: "/images/nicnic.png"
+
 #color_scheme: dark (dark mode)
 
 callouts_level: quiet # or loud
