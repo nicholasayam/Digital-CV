@@ -15,6 +15,9 @@
 ### Diploma in Aerospace Electronics (DASE), cGPA: 3.959
 > **Singapore Polytechnic - Singapore *(2018-2022)***
 
+**Singapore Polytechnic - Singapore *(2018-2022)***
+{: .label .label-blue }
+
 Awards:
  - 3x Recipient of EEE Director’s Honour Roll (PFP, Year 1, Year 2)
  - 4x Recipent of M.O.E. Academic Achievement (2019 - 2022)
