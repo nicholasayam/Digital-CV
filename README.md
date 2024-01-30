@@ -75,12 +75,12 @@ Achievements:
 ***
 
 ## 📌 On The Side (Co-Curricular Activities)
-- **Co-founder and Executive, Aerospace Electronics Guild *(2020 - Present)***
+- **Co-founder and Executive, Aerospace Electronics Guild *(2020 - 2022)***
 	-	Oversaw and mentored 14 students with key knowledge of the cockpit and training on a full-scale A320 static simulator.
 	-	Designed, organised, and coordinated the sale of the DASE course shirt (Aerospace Electronics) with exceeding sales of more than 400 shirts sold.
 	- [Note: Aerospace Electronics Guild is a special interest group headed by Diploma of Aerospace Electronics (DASE) course chair, Mr Danny Lee.]
 
-- **Member, EDGE Scholars Programme (Invitation Only) *(2020 - Present)***
+- **Member, EDGE Scholars Programme (Invitation Only) *(2020 - 2022)***
 	- Trained verbal and written communication skills with current affairs and preparatory sessions.
 - **Participant, Overseas Leadership Training (LEAP) Camp *(2018)***
   - Participated in a camp to sharpen my core skills (e.g., leadership); allowing me to work more effectively as an individual and in teams.
