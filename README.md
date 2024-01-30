@@ -134,5 +134,5 @@ Achievements:
  - Professional Affiliation: Institution of Engineers, Singapore (IES)
 
 
-https://astroforkorea.github.io/Digital-CV/
+Digital CV URL: https://astroforkorea.github.io/Digital-CV/
 
