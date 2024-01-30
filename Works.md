@@ -6,7 +6,7 @@
 ## ⚙️ ENGINEERING
 Music Technology Activity Games (M-TAG), is a portable contactless system that allows paediatric patients to rehabilitate their upper limbs through fun and engaging music games, in a non-immersive virtual reality environment; Made possible using the latest hand tracking device, the Leap Motion Controller. 
 
-With this controller, the patient’s fine hand movements are captured while they play the games. These games help patients to stay motivated while they rehabilitate their upper limbs through the specifically designed exercises that the game offers. By just plugging the controller into any laptop, patients can start their rehabilitation sessions anywhere and anytime. 
+With this controller, the patient’s fine hand movements are captured while they play the games. These games help patients stay motivated while they rehabilitate their upper limbs through the specifically designed exercises that the game offers. By just plugging the controller into any laptop, patients can start their rehabilitation sessions anywhere and anytime. 
 
 Especially during extraordinary times, which is COVID-19, M-TAG allows rehabilitation for the patients to be conducted at home, while enabling therapists to remotely track their progress and improvements using cloud services such as Huawei Cloud and GovTech’s DECADA, during and post-Covid.
 
@@ -30,7 +30,7 @@ Both patient-oriented games are able to extract patient motion data such as maxi
 
 Under the Therapist-oriented games, the Sound Machine game acts as a tool for the therapist to help their patients express themselves through music. This section was made with research on Pattern Sensory Enhancement (PSE) that helps patients improve their motor control through sound patterns.
 
-  - Within Sound Machine, there are 2 sub-games: Audio Manipulator and Drum Machine. Audio Manipulator manipulates sounds (pitch/volume) based on the patient’s hand pitch and rotation, while Drum Machine acts as a virtual snare drum for patients to use during therapy.
+  - Within Sound Machine, there are 2 sub-games: Audio Manipulator and Drum Machine. The Audio Manipulator manipulates sounds (pitch/volume) based on the patient’s hand pitch and rotation, while the Drum Machine acts as a virtual snare drum for patients to use during therapy.
 
 **Note**: Patients are not required to be musically proficient to play the games, but rather enjoy the process of rehabilitating through learning and playing music.
 
