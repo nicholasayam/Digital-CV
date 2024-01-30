@@ -39,13 +39,13 @@ Awards:
  - Recipient of NYAA Silver Award
 
 Achievements: 
- - Secured place in Polytechnic Foundation Programme (PFP) at Singapore Polytechnic in-lieu of ‘O’ Levels; PFP, a specially designed for the top ‘N’ Level (Academic) cohort.
+ - Secured place in Polytechnic Foundation Programme (PFP) at Singapore Polytechnic in lieu of ‘O’ Levels; PFP, a specially designed for the top ‘N’ Level (Academic) cohort.
 
 ***
 
 ## 👔 Technical Experience
 **Intern** - In collaboration with KK Women's and Children's Hospital *(Mar 2021 - Aug 2021)* 
- - Created [Music Technology Activity Games (M-TAG)](https://www.youtube.com/watch?v=FUSgxuEN5TY&list=PLBGc4tfKrl_aqrWXd7liNJw3v8iISVYh1), a contactless system bringing virtual-reality (non-immersive) music games to the homes of paediatric patients undergoing upper limb rehabilitation during and post Covid.
+ - Created [Music Technology Activity Games (M-TAG)](https://www.youtube.com/watch?v=FUSgxuEN5TY&list=PLBGc4tfKrl_aqrWXd7liNJw3v8iISVYh1), a contactless system bringing virtual-reality (non-immersive) music games to the homes of paediatric patients undergoing upper limb rehabilitation during and post-Covid.
 	 - Technologies used: Leap Motion Controller, Unity3D, Jupyter Notebook, C#, Python, DECADA (GovTech), Huawei Cloud.
      - M-TAG is part of the Engaging Rehabilitation group of in-house projects in Singapore Polytechnic’s School of [EEE’s Biomedical Engineering Hub](https://www.sp.edu.sg/engineering-cluster/eee/news/eee/eee-students-emerged-as-champions-in-scs-splash-awards-2021).
 
@@ -58,7 +58,7 @@ Achievements:
 - **Champion**, of Singapore Computer Society (SCS) [Splash Awards 2021](https://www.scs.org.sg/awards/splash/2021/announcements)
   - Competed nationally against 72 tertiary teams to create an innovative tech solution (enhancing upon my final year project) using digital intelligence and cloud that will transform Singapore in a post-pandemic world.
  - **Presenter**, Singapore General Hospital SGH200 Learning Fiesta
-   - Demostration for Final Year Project (FYP) to healthcare leaders.
+   - Demonstration for Final Year Project (FYP) to healthcare leaders.
  - **Participant**, Till Semi-Finals of [Techblazer Student Awards 2021](https://techblazerawards.sg/Awards)
  - **Participant**, Nominated for [International ICT Innovative Service Awards 2021](https://innoserve.tca.org.tw/en/about_contest.aspx) (InnoServe Awards)
 
@@ -70,13 +70,13 @@ Achievements:
 - **Participant**, Singapore Airlines [AppChallenge](https://appchallenge.singaporeair.com/en/challenges/students-2021) [Tertiary Student Track] *(2021)*
   - Worked as a team of 3 students to enhance the current on-board entertainment system with a mobile application to create an engaging in-flight gaming experience. *(2021)*
 - **Participant**, 313@somerset [Visual Art Contest](https://www.313somerset.com.sg/-/media/retail/asia/313-somerset/files/20210803_somersetlive_contest_form_6-august.pdf?la=en&hash=0BD11D3CFE4871393D6221C9855ADE1297FD1E6A) *(2021)*
-  - Designed a vibrant and dynamic wall poster to fit organiser's needs.
+  - Designed a vibrant and dynamic wall poster to fit the organiser's needs.
 
 ***
 
 ## 📌 On The Side (Co-Curricular Activities)
 - **Co-founder and Executive, Aerospace Electronics Guild *(2020 - Present)***
-	-	Oversaw and mentored a group of 14 students with key knowledge of the cockpit and training on a full-scale A320 static simulator.
+	-	Oversaw and mentored 14 students with key knowledge of the cockpit and training on a full-scale A320 static simulator.
 	-	Designed, organised, and coordinated the sale of the DASE course shirt (Aerospace Electronics) with exceeding sales of more than 400 shirts sold.
 	- [Note: Aerospace Electronics Guild is a special interest group headed by Diploma of Aerospace Electronics (DASE) course chair, Mr Danny Lee.]
 
@@ -92,7 +92,7 @@ Achievements:
   - As part of the President's Challenge, freshmen from Singapore Polytechnic join the Singapore Polytechnic Flag Day are brought out to various parts of Singapore to raise funds for the needy in Singapore. On a personal note: This event was memorable as I was able to see first-hand the kindness of locals when it came time to contribute back to the communities in Singapore. I was particularly fond of an old lady who was altruistic in sharing a generous amount to the contribution tin I was carrying with me!
 
 - **Volunteer, NTUC Health SilverACE Senior Activity Centre (Telok Blangah) *(2019)***
-  - At the senior activity center, I had the opportunity to engage with vulnerable elderlies in lower-income neighbourhoods who are often lonely and socially isolated. To brighten their day, my fellow classmates and I initiated fun and simple games with them, had tea to hear their interesting stories, and helped to keep the place neat and tidy. Albeit our short visit, it was nice to see their soft smiles as we bond and interact with them.
+  - At the senior activity centre, I had the opportunity to engage with vulnerable elderlies in lower-income neighbourhoods who are often lonely and socially isolated. To brighten their day, my classmates and I initiated fun and simple games with them, had tea to hear their interesting stories and helped keep the place neat and tidy. Albeit our short visit, it was nice to see their soft smiles as we bonded and interacted with them.
 
 
 -  **Completed external courses in:** 
@@ -107,7 +107,7 @@ Achievements:
 ## 💼 Technical Skills
 - Programming Languages: C++, C#, Python
 - Engineering Design: AutoCAD, Autodesk Fusion 360, Unity3D, Multisim 10.1
-- Design: Android Studio, Adobe Illustrator & Adobe Premerie Pro
+- Design: Android Studio, Adobe Illustrator & Adobe Premiere Pro
 - Productivity: MS Office, Zoom,  Slack, GitHub
 
 ***
@@ -120,16 +120,18 @@ Achievements:
 ***
 
 ## 🎖️ Military Experience
-- **Singapore Armed Forces (SAF)**, Enlisted May 2022 till XX (TBU). Attended Specialist Cadet School and was awarded the Silver Bayonet (Top 10% Honour Graduate in cohort), in February 2023.
+- **Singapore Armed Forces (SAF)**
+  - Attended Specialist Cadet School and was awarded the Silver Bayonet (Top 10% Honour Graduate in cohort), in February 2023.
+  - Awarded Company Soldier Of the Month (October 2023).
 
 
 ***
 
 ## 📂 Relevant Information
 
- - Driving License : Class 3
- - Date of Birth : 26th September 2000
- - Professional Affiliation : Institution of Engineers, Singapore (IES)
+ - Driving License: Class 3
+ - Date of Birth: 26th September 2000
+ - Professional Affiliation: Institution of Engineers, Singapore (IES)
 
 
 https://astroforkorea.github.io/Digital-CV/
