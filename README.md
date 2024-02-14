@@ -57,8 +57,8 @@ Achievements:
 
 - **Champion**, of Singapore Computer Society (SCS) [Splash Awards 2021](https://www.scs.org.sg/awards/splash/2021/announcements)
   - Competed nationally against 72 tertiary teams to create an innovative tech solution (enhancing upon my final year project) using digital intelligence and cloud that will transform Singapore in a post-pandemic world.
- - **Semi-Finalist**, of [Techblazer Student Awards 2021](https://techblazerawards.sg/Awards) 
-  - Competed nationally in the student category to attain the highest accolade for tech innovation. Award presented by Infocommunications Media Development Authority (IMDA) and SGTech.
+ - **Semi-Finalist**, of [Techblazer Student Awards 2021](https://techblazerawards.sg/Awards)
+   - Competed nationally in the student category to attain the highest accolade for tech innovation. Award presented by Infocommunications Media Development Authority (IMDA) and SGTech.
  - **Nominated**, for [International ICT Innovative Service Awards 2021](https://innoserve.tca.org.tw/en/about_contest.aspx) (InnoServe Awards)
   - Nominated among international teams for the Innoserve Awards based on the project's viability and novelty!
  - **Presenter**, Singapore General Hospital SGH200 Learning Fiesta
