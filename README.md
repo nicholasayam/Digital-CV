@@ -16,8 +16,8 @@
 {: .label .label-purple}
 
 Awards:
- - 3x Recipient of EEE Director’s Honour Roll (PFP, Year 1, Year 2)
- - 4x Recipent of M.O.E. Academic Achievement (2019 - 2022)
+ - 3 x Recipient of EEE Director’s Honour Roll (PFP, Year 1, Year 2)
+ - 4 x Recipent of M.O.E. Academic Achievement (2019 - 2022)
   - Recipient of Edusave:
 	 - Skills Award
 	 
@@ -60,7 +60,7 @@ Achievements:
  - **Semi-Finalist**, of [Techblazer Student Awards 2021](https://techblazerawards.sg/Awards)
    - Competed nationally in the student category to attain the highest accolade for tech innovation. Award presented by Infocommunications Media Development Authority (IMDA) and SGTech.
  - **Nominated**, for [International ICT Innovative Service Awards 2021](https://innoserve.tca.org.tw/en/about_contest.aspx) (InnoServe Awards)
-  - Nominated among international teams for the Innoserve Awards based on the project's viability and novelty!
+   - Nominated among international teams for the Innoserve Awards based on the project's viability and novelty!
  - **Presenter**, Singapore General Hospital SGH200 Learning Fiesta
    - Demonstration for Final Year Project (FYP) to healthcare leaders.
 
