@@ -57,18 +57,20 @@ Achievements:
 
 - **Champion**, of Singapore Computer Society (SCS) [Splash Awards 2021](https://www.scs.org.sg/awards/splash/2021/announcements)
   - Competed nationally against 72 tertiary teams to create an innovative tech solution (enhancing upon my final year project) using digital intelligence and cloud that will transform Singapore in a post-pandemic world.
+ - **Semi-Finalist**, of [Techblazer Student Awards 2021](https://techblazerawards.sg/Awards) 
+  - Competed nationally in the student category to attain the highest accolade for tech innovation. Award presented by Infocommunications Media Development Authority (IMDA) and SGTech.
+ - **Nominated**, for [International ICT Innovative Service Awards 2021](https://innoserve.tca.org.tw/en/about_contest.aspx) (InnoServe Awards)
+  - Nominated among international teams for the Innoserve Awards based on the project's viability and novelty!
  - **Presenter**, Singapore General Hospital SGH200 Learning Fiesta
    - Demonstration for Final Year Project (FYP) to healthcare leaders.
- - **Participant**, Till Semi-Finals of [Techblazer Student Awards 2021](https://techblazerawards.sg/Awards)
- - **Participant**, Nominated for [International ICT Innovative Service Awards 2021](https://innoserve.tca.org.tw/en/about_contest.aspx) (InnoServe Awards)
 
 **Others**
 {: .label .label-purple }
 
+- **Participant**, Singapore Airlines [AppChallenge](https://appchallenge.singaporeair.com/en/challenges/students-2021) [Tertiary Student Track] *(2021)*
+  - Headed a team of 3 students to enhance the current on-board entertainment system with a mobile application to create an engaging in-flight gaming experience.
 - **Participant**, Mapletree-SCCCI [River Hongbao Hackathon 2021](https://www.facebook.com/riverhongbaosg/videos/rhbhacks-2021-is-back/358824385315976/) *(2020)*
   - Expressed creativity by creating and proposing an eco-friendly Chinese New Year product for the festive period.
-- **Participant**, Singapore Airlines [AppChallenge](https://appchallenge.singaporeair.com/en/challenges/students-2021) [Tertiary Student Track] *(2021)*
-  - Worked as a team of 3 students to enhance the current on-board entertainment system with a mobile application to create an engaging in-flight gaming experience. *(2021)*
 - **Participant**, 313@somerset [Visual Art Contest](https://www.313somerset.com.sg/-/media/retail/asia/313-somerset/files/20210803_somersetlive_contest_form_6-august.pdf?la=en&hash=0BD11D3CFE4871393D6221C9855ADE1297FD1E6A) *(2021)*
   - Designed a vibrant and dynamic wall poster to fit the organiser's needs.
 
