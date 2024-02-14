@@ -124,7 +124,7 @@ Achievements:
 ## 🎖️ Military Experience
 - **Singapore Armed Forces (SAF)**
   - Attended Specialist Cadet School and was awarded the Silver Bayonet (Top 10% Honour Graduate in cohort), in February 2023.
-  - Awarded Company Soldier Of the Month (October 2023).
+  - Awarded Company Soldier Of the Month (October 2023). 
 
 
 ***
