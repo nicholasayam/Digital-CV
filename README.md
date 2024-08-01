@@ -39,7 +39,7 @@ Awards:
  - Recipient of NYAA Silver Award
 
 Achievements: 
- - Secured place in Polytechnic Foundation Programme (PFP) at Singapore Polytechnic in lieu of ‘O’ Levels; PFP, a specially designed for the top ‘N’ Level (Academic) cohort.
+ - Secured place in [Polytechnic Foundation Programme (PFP)](https://www.moe.gov.sg/post-secondary/admissions/pfp) at Singapore Polytechnic in lieu of ‘O’ Levels; PFP, a specially designed for the top ‘N’ Level (Academic) cohort.
 
 ***
 
