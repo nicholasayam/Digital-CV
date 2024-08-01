@@ -125,7 +125,7 @@ Achievements:
 ## 🎖️ Military Experience
 **Singapore Armed Forces (SAF)**
 
-  - Conferred 2024 [NSF of the Year Award (NSFOTY)](https://www.ns.gov.sg/web/profiles/nsf/recognition-of-full-time-ns-contributions#recognition-awards-for-nsfs)
+  - Conferred [NSF of the Year Award 2024 (NSFOTY)](https://www.ns.gov.sg/web/profiles/nsf/recognition-of-full-time-ns-contributions#recognition-awards-for-nsfs)
 	 - The award shows the SAF’s appreciation for outstanding NSFs who contributed beyond their call of duty, and demonstrated strong commitment to defence.
 	 - Attended [Presidential Garden Reception 2024](https://www.mindef.gov.sg/news-and-events/latest-releases/21jul24_nr)
   - Awarded Company Soldier Of the Month (October 2023).
