@@ -91,10 +91,10 @@ Achievements:
   - Volunteered in the preparation and distribution of daily meals to beneficiaries such as the elderly, disabled and low-income families in Singapore.
 
 - **Volunteer, Singapore Polytechnic Flag Day (Community Service) *(2018 & 2019)***
-  - As part of the President's Challenge, freshmen from Singapore Polytechnic join the Singapore Polytechnic Flag Day are brought out to various parts of Singapore to raise funds for the needy in Singapore. On a personal note: This event was memorable as I was able to see first-hand the kindness of locals when it came time to contribute back to the communities in Singapore. I was particularly fond of an old lady who was altruistic in sharing a generous amount to the contribution tin I was carrying with me!
+  - As part of the President's Challenge, freshmen from Singapore Polytechnic are brought out to various parts of Singapore to raise funds for the needy in Singapore. On a personal note: This event was memorable as I was able to see first-hand the kindness of locals when it came time to contribute back to the communities in Singapore. I was particularly fond of an old lady who was altruistic in sharing a generous amount to the contribution tin I was carrying with me!
 
 - **Volunteer, NTUC Health SilverACE Senior Activity Centre (Telok Blangah) *(2019)***
-  - At the senior activity centre, I had the opportunity to engage with vulnerable elderlies in lower-income neighbourhoods who are often lonely and socially isolated. To brighten their day, my classmates and I initiated fun and simple games with them, had tea to hear their interesting stories and helped keep the place neat and tidy. Albeit our short visit, it was nice to see their soft smiles as we bonded and interacted with them.
+  - At the senior activity centre, I had the opportunity to engage with vulnerable elderlies in lower-income neighbourhoods who are often lonely and socially isolated. To brighten their day, we initiated fun activities and had tea to hear their interesting stories. Albeit our short visit, it was nice to see their soft smiles as we bonded and interacted with them.
 
 
 -  **Completed external courses in:** 
@@ -102,6 +102,7 @@ Achievements:
 	 - Project Management: The Basics for Success [Coursera X University of California, Irvine Extension] *(2020)*
 	 - Conversational Korean: Learn to Speak Korean 1 [Coursera X Yonsei University] *(2020)*
 	 - CCNAv7: Introduction to Networks [Cisco Networking Academy] *(2023)*
+    
  
 
 ***
@@ -122,9 +123,12 @@ Achievements:
 ***
 
 ## 🎖️ Military Experience
-- **Singapore Armed Forces (SAF)**
+**Singapore Armed Forces (SAF)**
+
+  - Conferred 2024 [NSF of the Year Award (NSFOTY)](https://www.ns.gov.sg/web/profiles/nsf/recognition-of-full-time-ns-contributions#recognition-awards-for-nsfs)
+	 - The award shows the SAF’s appreciation for outstanding NSFs who contributed beyond their call of duty, and demonstrated strong commitment to defence.
+  - Awarded Company Soldier Of the Month (October 2023).
   - Attended Specialist Cadet School and was awarded the Silver Bayonet (Top 10% Honour Graduate in cohort), in February 2023.
-  - Awarded Company Soldier Of the Month (October 2023). 
 
 
 ***
@@ -136,5 +140,5 @@ Achievements:
  - Professional Affiliation: Institution of Engineers, Singapore (IES)
 
 
-Digital CV URL: https://astroforkorea.github.io/Digital-CV/
+Digital CV URL: https://nicholasayam.github.io/Digital-CV/
 
