@@ -5,7 +5,7 @@
 {: .new-title }
 > Live Updates
 > 
-> Upcoming in 2024, Law at the National University of Singapore (NUS). 🚀.
+> Law at the National University of Singapore (NUS). 🚀.
 
 ***
 
@@ -138,8 +138,9 @@ Achievements:
 
  - Driving License: Class 3
  - Date of Birth: 26th September 2000
- - Professional Affiliation: Institution of Engineers, Singapore (IES)
-
+ - Professional Affiliation:
+	 - Singapore Academy Of Law (SAL), Associate Student
+	 - Institution of Engineers, Singapore (IES)
 
 Digital CV URL: https://nicholasayam.github.io/Digital-CV/
 
