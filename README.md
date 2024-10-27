@@ -85,6 +85,10 @@ Achievements:
 ***
 
 ## 📌 On The Side (Co-Curricular Activities)
+-**Volunteer, NUS Law Flag Day (Community Service) *(2024)***
+  - Partnering with CARE SG, the flag division went out to raise funds throughout Singapore to empower vulnerable youth to find their direction, hope and success.
+  - Beyond raising funds, we assisted in CARE SG to bring fun activities to engage with the youth at Bedok Green Secondary School.
+
 - **Co-founder and Executive, Aerospace Electronics Guild *(2020 - 2022)***
 	-	Oversaw and mentored 14 students with key knowledge of the cockpit and training on a full-scale A320 static simulator.
 	-	Designed, organised, and coordinated the sale of the DASE course shirt (Aerospace Electronics) with exceeding sales of more than 400 shirts sold.
