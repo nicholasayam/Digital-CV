@@ -64,6 +64,14 @@ Achievements:
  - **Presenter**, Singapore General Hospital SGH200 Learning Fiesta
    - Demonstration for Final Year Project (FYP) to healthcare leaders.
 
+**Law-Related**
+{: .label .label-purple }
+
+- **TBC**, SAL-Microsoft Prompt Engineering Competition 2024
+  - Engineered a legal prompt to tackle a hypothetical situation where prompts need to align with the standards of legal practices while avoiding biased AI outputs.
+ 
+- **TBC**, MediateGuru's 5th Virtual International Mediation Competition 2025
+
 **Others**
 {: .label .label-purple }
 
