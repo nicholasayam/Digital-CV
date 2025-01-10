@@ -67,7 +67,7 @@ Achievements:
 **Law-Related**
 {: .label .label-purple }
 
-- **TBC**, SAL-Microsoft Prompt Engineering Competition 2024
+- **Participant**, SAL-Microsoft Prompt Engineering Competition 2024
   - Engineered a legal prompt to tackle a hypothetical situation where prompts need to align with the standards of legal practices while avoiding biased AI outputs.
  
 - **TBC**, MediateGuru's 5th Virtual International Mediation Competition 2025
