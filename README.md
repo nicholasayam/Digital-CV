@@ -72,7 +72,7 @@ Achievements:
 
  - **Participant**, TSMP Moot & Mingle 2025
   - Registered as a team of 2 to moot against a case on misrepresentation. Despite this competition being my first experience to mooting, I remained elated and encouraged to cultivate the good mooting practices as advisered by the experienced lawyers at TSMP.
-    
+
 - **Participant**, SAL-Microsoft Prompt Engineering Competition 2024
   - Engineered a legal prompt to tackle a hypothetical situation where prompts need to align with the standards of legal practices while avoiding biased AI outputs.
 
