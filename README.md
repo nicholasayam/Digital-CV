@@ -5,7 +5,7 @@
 {: .new-title }
 > Live Updates
 > 
-> Law at the National University of Singapore (NUS). 🚀.
+> Y1S2 Law student at the National University of Singapore (NUS). 🚀.
 
 ***
 
@@ -66,11 +66,16 @@ Achievements:
 
 **Law-Related**
 {: .label .label-purple }
+ 
+- **TBC**, MediateGuru's 5th Virtual International Mediation Competition 2025 (27-30 MARCH 2025)
+  - Entered an international mediation competition representing NUS as a student mediator. Results incoming...
 
+ - **Participant**, TSMP Moot & Mingle 2025
+  - Registered as a team of 2 to moot against a case on misrepresentation. Despite this competition being my first experience to mooting, I remained elated and encouraged to cultivate the good mooting practices as advisered by the experienced lawyers at TSMP.
+    
 - **Participant**, SAL-Microsoft Prompt Engineering Competition 2024
   - Engineered a legal prompt to tackle a hypothetical situation where prompts need to align with the standards of legal practices while avoiding biased AI outputs.
- 
-- **TBC**, MediateGuru's 5th Virtual International Mediation Competition 2025
+
 
 **Others**
 {: .label .label-purple }
@@ -85,6 +90,9 @@ Achievements:
 ***
 
 ## 📌 On The Side (Co-Curricular Activities)
+- **Case writer, Meet-The-People Session *(2025)***
+ 	- Partnering with the volunteers at my local resident grassroots as a case writer for the citizens in my neighbourhood. This experience had allowed me to not only interact with my community, and transfer my analytical writing skills to each case, but also find avenues at which the resident's concerns can be alleviated. As of the upcoming summer break, I will be dedicating time every week to engage those in need of such support.
+
 - **Volunteer, NUS Law Flag Day (Community Service) *(2024)***
  	- Partnering with CARE SG, the flag division went out to raise funds throughout Singapore to empower vulnerable youth to find their direction, hope and success.
   	- Beyond raising funds, we assisted in CARE SG to bring fun activities to engage with the youth at Bedok Green Secondary School.
