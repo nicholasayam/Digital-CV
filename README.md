@@ -90,7 +90,7 @@ Achievements:
 ***
 
 ## 📌 On The Side (Co-Curricular Activities)
-- **Case writer, Meet-The-People Session *(2025)***
+- **Case Writer, Meet-The-People Session *(2025)***
  	- Partnering with the volunteers at my local resident grassroots as a case writer for the citizens in my neighbourhood. This experience had allowed me to not only interact with my community, and transfer my analytical writing skills to each case, but also find avenues at which the resident's concerns can be alleviated. As of the upcoming summer break, I will be dedicating time every week to engage those in need of such support.
 
 - **Volunteer, NUS Law Flag Day (Community Service) *(2024)***
