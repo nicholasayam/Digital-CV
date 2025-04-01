@@ -67,11 +67,11 @@ Achievements:
 **Law-Related**
 {: .label .label-purple }
  
-- **TBC**, MediateGuru's 5th Virtual International Mediation Competition 2025 (27-30 MARCH 2025)
-  - Entered an international mediation competition representing NUS as a student mediator. Results incoming...
+- **Participant (Student Mediator)**, MediateGuru's 5th Virtual International Mediation Competition 2025
+  - Entered an international mediation competition representing NUS as a student mediator.
 
 - **Participant**, TSMP Moot & Mingle 2025
-  - Registered as a team of 2 to moot against a case on misrepresentation. Despite this competition being my first experience to mooting, I remained elated and encouraged to cultivate the good mooting practices as advisered by the experienced lawyers at TSMP.
+  - Registered as a team of 2 to moot against a case on misrepresentation. Despite this competition being my first experience to mooting, I remained elated and encouraged to cultivate the good mooting practices as advised by the experienced lawyers at TSMP.
 
 - **Participant**, SAL-Microsoft Prompt Engineering Competition 2024
   - Engineered a legal prompt to tackle a hypothetical situation where prompts need to align with the standards of legal practices while avoiding biased AI outputs.
@@ -81,7 +81,7 @@ Achievements:
 {: .label .label-purple }
 
 - **Participant**, Singapore Airlines [AppChallenge](https://appchallenge.singaporeair.com/en/challenges/students-2021) [Tertiary Student Track] *(2021)*
-  - Headed a team of 3 students to enhance the current on-board entertainment system with a mobile application to create an engaging in-flight gaming experience.
+  - Headed a team of 3 students to enhance the current onboard entertainment system with a mobile application to create an engaging in-flight gaming experience.
 - **Participant**, Mapletree-SCCCI [River Hongbao Hackathon 2021](https://www.facebook.com/riverhongbaosg/videos/rhbhacks-2021-is-back/358824385315976/) *(2020)*
   - Expressed creativity by creating and proposing an eco-friendly Chinese New Year product for the festive period.
 - **Participant**, 313@somerset [Visual Art Contest](https://www.313somerset.com.sg/-/media/retail/asia/313-somerset/files/20210803_somersetlive_contest_form_6-august.pdf?la=en&hash=0BD11D3CFE4871393D6221C9855ADE1297FD1E6A) *(2021)*
