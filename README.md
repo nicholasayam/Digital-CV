@@ -5,7 +5,7 @@
 {: .new-title }
 > Live Updates
 > 
-> Y1S2 Law student at the National University of Singapore (NUS). 🚀.
+> Rising Y1 Law student at the National University of Singapore (NUS). 🚀.
 
 ***
 
@@ -74,7 +74,7 @@ Achievements:
   - Registered as a team of 2 to moot against a case on misrepresentation. Despite this competition being my first experience to mooting, I remained elated and encouraged to cultivate the good mooting practices as advised by the experienced lawyers at TSMP.
 
 - **Participant**, SAL-Microsoft Prompt Engineering Competition 2024
-  - Engineered a legal prompt to tackle a hypothetical situation where prompts need to align with the standards of legal practices while avoiding biased AI outputs.
+  - Engineered a structured legal prompt to tackle a hypothetical situation. Such prompts must align with legal practices' standards to avoid biased AI outputs such as hallucinations while delivering the most optimum output.
 
 
 **Others**
