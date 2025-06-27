@@ -117,13 +117,12 @@ Achievements:
   - At the senior activity centre, I had the opportunity to engage with vulnerable elderlies in lower-income neighbourhoods who are often lonely and socially isolated. To brighten their day, we initiated fun activities and had tea to hear their interesting stories. Albeit our short visit, it was nice to see their soft smiles as we bonded and interacted with them.
 
 
--  **Completed external courses in:** 
-	 - AWS Academy Cloud Foundation and Cloud Architecting [AWS] *(2019)*
-	 - Project Management: The Basics for Success [Coursera X University of California, Irvine Extension] *(2020)*
-	 - Conversational Korean: Learn to Speak Korean 1 [Coursera X Yonsei University] *(2020)*
+-  **Completed external courses in:**
+   	 - Understanding Financial Markets [Coursera X University of Geneva] *(2025)*
 	 - CCNAv7: Introduction to Networks [Cisco Networking Academy] *(2023)*
-    
- 
+	 - Conversational Korean: Learn to Speak Korean 1 [Coursera X Yonsei University] *(2020)*
+    	 - Project Management: The Basics for Success [Coursera X University of California, Irvine Extension] *(2020)*
+ 	 - AWS Academy Cloud Foundation and Cloud Architecting [AWS] *(2019)*
 
 ***
 
