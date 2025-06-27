@@ -5,7 +5,8 @@
 {: .new-title }
 > Live Updates
 > 
-> Rising Y1 Law student at the National University of Singapore (NUS). 🚀.
+> Rising Y2 Law student at the National University of Singapore (NUS). 🚀.
+> Vice President of NUS Law Students' International Relations Committee (LSIRC)
 
 ***
 
@@ -90,8 +91,11 @@ Achievements:
 ***
 
 ## 📌 On The Side (Co-Curricular Activities)
+- **Committee Member, Project Mediation (NUS Pro Bono) *(2025)***
+ 	- Taught Year 1 NUS law students the process of mediation as well as assisted their learning into employment law. During our engagement with our beneficiary, TOUCH Community Services, we managed to enlighten participants on their employment rights as well as educate the benefits of mediation in their daily lives beyond work disputes.
+
 - **Case Writer, Meet-The-People Session *(2025)***
- 	- Partnering with the volunteers at my local resident grassroots as a case writer for the citizens in my neighbourhood. This experience had allowed me to not only interact with my community, and transfer my analytical writing skills to each case, but also find avenues at which the resident's concerns can be alleviated. As of the upcoming summer break, I will be dedicating time every week to engage those in need of such support.
+ 	- Partnered with the volunteers at my local resident grassroots as a case writer for the citizens in my neighbourhood. This experience had allowed me to not only interact with my community, and transfer my analytical writing skills to each case, but also find avenues at which the resident's concerns can be alleviated. As of the upcoming summer break, I will be dedicating time every week to engage those in need of such support.
 
 - **Volunteer, NUS Law Flag Day (Community Service) *(2024)***
  	- Partnering with CARE SG, the flag division went out to raise funds throughout Singapore to empower vulnerable youth to find their direction, hope and success.
