@@ -8,8 +8,6 @@
 > Rising Y2 Law student at the National University of Singapore (NUS). 🚀.
 > Vice President of NUS Law Students' International Relations Committee (LSIRC)
 
-<script> const toggleDarkMode = document.querySelector('.js-toggle-dark-mode'); jtd.addEvent(toggleDarkMode, 'click', function(){ if (jtd.getTheme() === 'dark') { jtd.setTheme('light'); toggleDarkMode.textContent = 'Preview dark color scheme'; } else { jtd.setTheme('dark'); toggleDarkMode.textContent = 'Return to the light side'; } }); </script>
-
 ***
 
 ## 🎓 Education
