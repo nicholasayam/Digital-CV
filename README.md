@@ -44,7 +44,11 @@ Achievements:
 
 ***
 
-## 👔 Technical Experience
+## 👔 Work Experience
+**Legal Intern** - Linklaters Singapore Pte. Ltd *(Jun 2025 - Jul 2025)* 
+ - Banking Department
+ - Investment Funds Department
+
 **Intern** - In collaboration with KK Women's and Children's Hospital *(Mar 2021 - Aug 2021)* 
  - Created [Music Technology Activity Games (M-TAG)](https://www.youtube.com/watch?v=FUSgxuEN5TY&list=PLBGc4tfKrl_aqrWXd7liNJw3v8iISVYh1), a contactless system bringing virtual-reality (non-immersive) music games to the homes of paediatric patients undergoing upper limb rehabilitation during and post-Covid.
 	 - Technologies used: Leap Motion Controller, Unity3D, Jupyter Notebook, C#, Python, DECADA (GovTech), Huawei Cloud.
