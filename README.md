@@ -5,12 +5,18 @@
 {: .new-title }
 > Live Updates
 > 
-> Rising Y2 Law student at the National University of Singapore (NUS). 🚀.
+> Y2 Law student at the National University of Singapore (NUS). 🚀.
 > Vice President of NUS Law Students' International Relations Committee (LSIRC)
 
 ***
 
 ## 🎓 Education
+
+### Bachelor of Laws (Honours) (LLB)
+**National University of Singapore - Singapore *(2024-2028)***
+
+Awards:
+- Class of 1986 Scholarship Award (2025/2026)
 
 ### Diploma in Aerospace Electronics (DASE), cGPA: 3.959
 **Singapore Polytechnic - Singapore *(2018-2022)***
