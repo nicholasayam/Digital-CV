@@ -14,6 +14,7 @@
 
 ### Bachelor of Laws (Honours) (LLB)
 **National University of Singapore - Singapore *(2024-2028)***
+{: .label .label-purple}
 
 Awards:
 - Class of 1986 Scholarship Award (2025/2026)
