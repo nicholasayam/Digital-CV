@@ -78,6 +78,9 @@ Achievements:
 
 **Law-Related**
 {: .label .label-purple }
+
+- **Student Ambassador (Office of Student Affairs)**, National University of Singapore
+  - Volunteered to promote NUS Faculty of Law and answer queries over various events such as NUS Open House 2025, NUS Law Webinar (for Polytechnics) 2025/2026
  
 - **Participant (Student Mediator)**, MediateGuru's 5th Virtual International Mediation Competition 2025
   - Entered an international mediation competition representing NUS as a student mediator.
