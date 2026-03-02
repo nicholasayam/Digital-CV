@@ -1,4 +1,4 @@
-<img width="468" height="22" alt="image" src="https://github.com/user-attachments/assets/ea8bf0ee-20b7-4484-960f-d90f566a3164" /># Nicholas Aloysius Yam
+# Nicholas Aloysius Yam
 (formerly Nicholas Ng Wei Jie, renounced)
 
 
