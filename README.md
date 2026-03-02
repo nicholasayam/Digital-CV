@@ -69,6 +69,7 @@ Achievements:
 ## 🏆 Competitions and Events
 
 **Law-Related**
+{: .label .label-purple }
 
 - **Participant**, WongPartnership International Commercial Arbitration Moot (ICAM)
   - Utilised this opportunity to work on my advocacy and attain actionable feedback from senior lawyers.
@@ -83,7 +84,7 @@ Achievements:
   - Engineered a structured legal prompt to tackle a hypothetical situation. Such prompts must align with legal practices' standards to avoid biased AI outputs, such as hallucinations, while delivering the optimal output.
 
 
-  **Internship Related (SP) - M-TAG**
+**Internship Related (SP) - M-TAG**
 {: .label .label-purple }
 
 - **Champion**, of Singapore Computer Society (SCS) [Splash Awards 2021](https://www.scs.org.sg/awards/splash/2021/announcements)
