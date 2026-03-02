@@ -1,4 +1,4 @@
-# Nicholas Aloysius Yam
+<img width="468" height="22" alt="image" src="https://github.com/user-attachments/assets/ea8bf0ee-20b7-4484-960f-d90f566a3164" /># Nicholas Aloysius Yam
 (formerly Nicholas Ng Wei Jie, renounced)
 
 
@@ -12,7 +12,7 @@
 
 ## 🎓 Education
 
-### Bachelor of Laws (Honours) (LLB)
+### Bachelor of Laws (Honours) (LLB), cGPA: 3
 **National University of Singapore - Singapore *(2024-2028)***
 {: .label .label-purple}
 
@@ -25,7 +25,7 @@ Awards:
 
 Awards:
  - 3 x Recipient of EEE Director’s Honour Roll (PFP, Year 1, Year 2)
- - 4 x Recipent of M.O.E. Academic Achievement (2019 - 2022)
+ - 4 x Recipient of M.O.E. Academic Achievement (2019 - 2022)
   - Recipient of Edusave:
 	 - Skills Award
 	 
@@ -64,33 +64,33 @@ Achievements:
 ***
 
 ## 🏆 Competitions and Events
-**Internship Related (SP) - M-TAG**
+
+**Law-Related**
+{: .label .label-purple }
+
+- **Participant**, WongPartnership International Commercial Arbitration Moot (ICAM)
+  - Utilised this opportunity to work on my advocacy and attain actionable feedback from senior lawyers.
+    
+- **Participant (Student Mediator)**, MediateGuru's 5th Virtual International Mediation Competition 2025
+  - Entered an international mediation competition representing NUS as a student mediator.
+
+- **Participant**, TSMP Moot & Mingle 2025
+  - Registered as a team of 2 to moot against a case on misrepresentation. Despite this being my first experience with mooting, I remained elated and encouraged to cultivate good mooting practices, as advised by the experienced lawyers at TSMP.
+
+- **Participant**, SAL-Microsoft Prompt Engineering Competition 2024
+  - Engineered a structured legal prompt to tackle a hypothetical situation. Such prompts must align with legal practices' standards to avoid biased AI outputs, such as hallucinations, while delivering the optimal output.
+
+  **Internship Related (SP) - M-TAG**
 {: .label .label-purple }
 
 - **Champion**, of Singapore Computer Society (SCS) [Splash Awards 2021](https://www.scs.org.sg/awards/splash/2021/announcements)
-  - Competed nationally against 72 tertiary teams to create an innovative tech solution (enhancing upon my final year project) using digital intelligence and cloud that will transform Singapore in a post-pandemic world.
+  - Competed nationally against 72 tertiary teams to create an innovative tech solution (building upon my final year project) using digital intelligence and cloud that will transform Singapore in a post-pandemic world.
  - **Semi-Finalist**, of [Techblazer Student Awards 2021](https://techblazerawards.sg/Awards)
    - Competed nationally in the student category to attain the highest accolade for tech innovation. Award presented by Infocommunications Media Development Authority (IMDA) and SGTech.
  - **Nominated**, for [International ICT Innovative Service Awards 2021](https://innoserve.tca.org.tw/en/about_contest.aspx) (InnoServe Awards)
    - Nominated among international teams for the Innoserve Awards based on the project's viability and novelty!
  - **Presenter**, Singapore General Hospital SGH200 Learning Fiesta
    - Demonstration for Final Year Project (FYP) to healthcare leaders.
-
-**Law-Related**
-{: .label .label-purple }
-
-- **Student Ambassador (Office of Student Affairs)**, National University of Singapore
-  - Volunteered to promote NUS Faculty of Law and answer queries over various events such as NUS Open House 2025, NUS Law Webinar (for Polytechnics) 2025/2026
- 
-- **Participant (Student Mediator)**, MediateGuru's 5th Virtual International Mediation Competition 2025
-  - Entered an international mediation competition representing NUS as a student mediator.
-
-- **Participant**, TSMP Moot & Mingle 2025
-  - Registered as a team of 2 to moot against a case on misrepresentation. Despite this competition being my first experience to mooting, I remained elated and encouraged to cultivate the good mooting practices as advised by the experienced lawyers at TSMP.
-
-- **Participant**, SAL-Microsoft Prompt Engineering Competition 2024
-  - Engineered a structured legal prompt to tackle a hypothetical situation. Such prompts must align with legal practices' standards to avoid biased AI outputs such as hallucinations while delivering the most optimum output.
-
 
 **Others**
 {: .label .label-purple }
@@ -105,11 +105,14 @@ Achievements:
 ***
 
 ## 📌 On The Side (Co-Curricular Activities)
+- **Student Ambassador (Office of Student Affairs)**, National University of Singapore
+  - Volunteered to promote NUS Faculty of Law and answer queries over various events such as NUS Open House 2025, NUS Law Webinar (for Polytechnics) 2025/2026
+
 - **Committee Member, Project Mediation (NUS Pro Bono) *(2025)***
  	- Taught Year 1 NUS law students the process of mediation as well as assisted their learning into employment law. During our engagement with our beneficiary, TOUCH Community Services, we managed to enlighten participants on their employment rights as well as educate the benefits of mediation in their daily lives beyond work disputes.
 
 - **Case Writer, Meet-The-People Session *(2025)***
- 	- Partnered with the volunteers at my local resident grassroots as a case writer for the citizens in my neighbourhood. This experience had allowed me to not only interact with my community, and transfer my analytical writing skills to each case, but also find avenues at which the resident's concerns can be alleviated. As of the upcoming summer break, I will be dedicating time every week to engage those in need of such support.
+ 	- Partnered with the volunteers at my residential grassroots as a case writer for the citizens in my neighbourhood. This experience had allowed me to not only interact with my community, and transfer my analytical writing skills to each case but also find avenues at which the residents' concerns can be alleviated. As of the upcoming summer break, I will be dedicating time every week to engage those in need of such support.
 
 - **Volunteer, NUS Law Flag Day (Community Service) *(2024)***
  	- Partnering with CARE SG, the flag division went out to raise funds throughout Singapore to empower vulnerable youth to find their direction, hope and success.
@@ -132,7 +135,7 @@ Achievements:
   - As part of the President's Challenge, freshmen from Singapore Polytechnic are brought out to various parts of Singapore to raise funds for the needy in Singapore. On a personal note: This event was memorable as I was able to see first-hand the kindness of locals when it came time to contribute back to the communities in Singapore. I was particularly fond of an old lady who was altruistic in sharing a generous amount to the contribution tin I was carrying with me!
 
 - **Volunteer, NTUC Health SilverACE Senior Activity Centre (Telok Blangah) *(2019)***
-  - At the senior activity centre, I had the opportunity to engage with vulnerable elderlies in lower-income neighbourhoods who are often lonely and socially isolated. To brighten their day, we initiated fun activities and had tea to hear their interesting stories. Albeit our short visit, it was nice to see their soft smiles as we bonded and interacted with them.
+  - At the senior activity centre, I had the opportunity to engage with vulnerable elderly in lower-income neighbourhoods who are often lonely and socially isolated. To brighten their day, we initiated fun activities and had tea to hear their interesting stories. Albeit our short visit, it was nice to see their soft smiles as we bonded and interacted with them.
 
 
 -  **Completed external courses in:**
