@@ -53,7 +53,7 @@ Achievements:
 
 ## 👔 Work Experience
 **Legal Intern** - Linklaters Singapore Pte. Ltd *(Jun 2025 - Jul 2025)* 
- - Banking Department
+ - Banking & Finance Department
 	 - Supported solicitors in drafting and reviewing areas within multi-jurisdictional loan facility agreements to ensure compliance and accuracy.
  - Investment Funds Department
 	 - Compiled 2025 MAS notices and updates relevant to fund managers holding a capital market service (CMS) license for fund management.
