@@ -12,7 +12,7 @@
 
 ## 🎓 Education
 
-### Bachelor of Laws (Honours) (LLB), cGPA: 3
+### Bachelor of Laws (Honours) (LLB)
 **National University of Singapore - Singapore *(2024-2028)***
 {: .label .label-purple}
 
