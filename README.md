@@ -54,7 +54,10 @@ Achievements:
 ## 👔 Work Experience
 **Legal Intern** - Linklaters Singapore Pte. Ltd *(Jun 2025 - Jul 2025)* 
  - Banking Department
+	 - Supported solicitors in drafting and reviewing areas within multi-jurisdictional loan facility agreements to ensure compliance and accuracy.
  - Investment Funds Department
+	 - Compiled 2025 MAS notices and updates relevant to fund managers holding a capital market service (CMS) license for fund management.
+	 - Extracted Investment Management Agreement (IMA) for multi-jurisdictional fund deal.
 
 **Intern** - In collaboration with KK Women's and Children's Hospital *(Mar 2021 - Aug 2021)* 
  - Created [Music Technology Activity Games (M-TAG)](https://www.youtube.com/watch?v=FUSgxuEN5TY&list=PLBGc4tfKrl_aqrWXd7liNJw3v8iISVYh1), a contactless system bringing virtual-reality (non-immersive) music games to the homes of paediatric patients undergoing upper limb rehabilitation during and post-Covid.
