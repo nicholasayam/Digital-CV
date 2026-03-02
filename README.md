@@ -83,6 +83,7 @@ Achievements:
 - **Participant**, SAL-Microsoft Prompt Engineering Competition 2024
   - Engineered a structured legal prompt to tackle a hypothetical situation. Such prompts must align with legal practices' standards to avoid biased AI outputs, such as hallucinations, while delivering the optimal output.
 
+
   **Internship Related (SP) - M-TAG**
 {: .label .label-purple }
 
