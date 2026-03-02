@@ -69,7 +69,6 @@ Achievements:
 ## 🏆 Competitions and Events
 
 **Law-Related**
-{: .label .label-purple }
 
 - **Participant**, WongPartnership International Commercial Arbitration Moot (ICAM)
   - Utilised this opportunity to work on my advocacy and attain actionable feedback from senior lawyers.
